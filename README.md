@@ -5,6 +5,7 @@
 
 <b> I'm current student of Payap University in Chiang Mai and study on Hospitality Industry Managment
 
-<h1> <b> ABOUT ME
+<h1> <b> ABOUT ME </b> </h1> 
 
-### 1111
+
+Hello, World
