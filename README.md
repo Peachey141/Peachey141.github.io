@@ -1,2 +1,1 @@
-# Kitchanon Sutthichayabut
-17 April 2002
+# Greetings, My name is Kitchanon Sutthichayabut
